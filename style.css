@@ -1,0 +1,100 @@
+body{
+    font-family: arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo{
+    color: #fff;
+    font-size: 20px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+   float: left;
+   padding-left: 432px;
+   
+}
+
+.menu li{
+    float: left;
+     color: #fff;
+    font-size: 16px;
+    line-height: 60px;
+    margin-right: 40px;
+    text-transform: uppercase;
+       
+}
+.main{
+    width: 100%;
+    height: 100%;
+    
+    background: url(../img/%D0%9F%D0%B0%D1%80%D0%B5%D0%BD%D1%8C.png)90% 100%/auto 85% no-repeat,url(../img/%D0%A4%D0%BE%D0%BD.png) center/cover no-repeat; 
+}
+
+.title_container{
+    color: #2c384a;
+    float: left;
+    margin: 432px 0px 0px 404px;
+    text-align: center;
+    
+    
+}
+
+.title_container h1{
+    font-size: 50px;
+   font-weight: bold;
+    
+}
+.title_container h4{
+    font-size: 22px;
+    margin-top: 40px;
+    color: #a4a8b2;
+    font-weight: bold;
+}
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid ;
+    background: name;
+    border-radius: 5px;
+    color:#a4a8b2;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 58px 14px 0px 14px;
+    
+}
+
+.summary{
+    
+    text-align: center;
+    margin-top: 65px;
+    
+}
+.summary h3{
+    
+    color: #263244;
+    font-size: 26px;
+    margin-bottom: 50px;
+    font-weight: bold;     
+    text-decoration:underline 5px #d17700;
+    
+}
+
+.summary span{
+    
+    display:block;
+    font-family: arial, sans-serif;
+    font-size: 22px;
+    color: #3f495a;
+    text-align: left;
+    padding-left: 190px;
+    margin: 14px 0px 60px 0px;
+}
+
+
